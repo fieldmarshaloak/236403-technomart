@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Vlad Balakaev](https://up.htmlacademy.ru/htmlcss/16/user/236403).
-* Наставник: `Неизвестно`.
+* Наставник: [Илья Борисенко] (https://htmlacademy.ru/profile/id39390)
 
 ---
 
